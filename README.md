@@ -2,7 +2,7 @@
 ## Pipelines / programs 
 1. TopHat/Cufflinks pipeline
 ### Prequsites
-1. TopHat/Cufflinks pipeline
+1. TopHat/Cufflinks pipeline <br>
   a) bowtie <br>
   b) tophat <br>
   c) samtools <br>
